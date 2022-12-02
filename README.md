@@ -4,7 +4,7 @@
 
 ## Current Projects
  - Login / Signup Database Authorization ![Version](https://img.shields.io/static/v1?label=Version&message=0.8&color=red)
- - Error Reporting Manager ![Version](https://img.shields.io/static/v1?label=Version&message=0.8&color=red)
+ - Error Reporting Manager ![Version](https://img.shields.io/static/v1?label=Version&message=0&color=red)
 
 
 ## Social Life
